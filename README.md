@@ -10,4 +10,5 @@ AWS 없이 구현했던 챗봇 서비스 소스코드,
 ollama + Llama3 + FAISS 를 통해 RAG 패턴 구현
 
 
-<img src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ycombinator.com%2Fcompanies%2Follama&psig=AOvVaw3dlzGlWTl2lCp4_W_pap3N&ust=1718714701029000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLixlq3V4oYDFQAAAAAdAAAAABAE">
+![meta-ollama-llama3](https://github.com/Cumulonimbus-Cloud/chat-bot/assets/96401828/543cc596-5e5e-4a7a-bde5-06973cdd0592)
+
